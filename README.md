@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... interesting project or smthng..
 - 📫 How to reach me ... 🎶¯\_(ツ)_/¯
 - 😄 Pronouns: ... 😂
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 
 <!---
 1oki-ux/1oki-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
